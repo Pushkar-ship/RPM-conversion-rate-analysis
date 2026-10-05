@@ -4,7 +4,7 @@ An end-to-end analysis of why a client's expensive ad campaigns weren't translat
 
 ## Business Problem
 
-A retail brand selling sports/fitness equipment was running costly ad campaigns but seeing disappointing ROI. Despite strong top-of-funnel traffic, conversion to actual purchases remained low. They br[...]
+A retail brand selling sports/fitness equipment was running costly ad campaigns but seeing disappointing ROI. Despite strong top-of-funnel traffic, conversion to actual purchases remained low.
 
 ## Dataset
 
