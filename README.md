@@ -28,7 +28,9 @@ A retail brand selling sports/fitness equipment was running costly ad campaigns 
 
 `![Overview](screenshots/overview.png)`
 `![Social Media Engagement](screenshots/social-media-engagement.png)`
-`![Customer Reviews](screenshots/customer-reviews.png)`
+`![Customer Reviews](RPM-conversion-rate-analysis/screenshots
+/customer-reviews.png
+)`
 `![Conversion Rate](screenshots/conversion_rate.png)`
 
 ## Key Insights
