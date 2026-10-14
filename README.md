@@ -38,11 +38,11 @@ A retail brand selling sports/fitness equipment was running costly ad campaigns 
 
 - **Seasonal decline**: January consistently has the highest views, clicks, and likes of the year, but all three metrics decline steadily through to December — engagement isn't being sustained.
 - **Funnel leak location**: Of total views, only ~20% convert to clicks and just ~5% convert to likes — the drop-off is concentrated early in the funnel, not at the final purchase step.
-- **Business implication**: Ad spend is driving traffic (views) effectively, but the campaigns aren't sustaining engagement past the initial click — meaning the ROI problem is a post-click/engag[...]
+- **Business implication**: Ad spend is driving traffic (views) effectively, but the campaigns aren't sustaining engagement past the initial click — meaning the ROI problem is a post-click/engagement.
 
 ## Data Limitation Found
 
-While validating the conversion rate measure, I found that a small number of low-traffic product-months (e.g., a product with only ~3–4 views in a given month) showed conversion rates exceeding 100%[...]
+While validating the conversion rate measure, I found that a small number of low-traffic product-months (e.g., a product with only ~3–4 views in a given month) showed conversion rates exceeding 100%.
 
 **Flag for low-confidence rates**: product-months with fewer than 10 views are excluded/flagged in the dashboard, since the conversion rate is not statistically meaningful at that volume.
 
